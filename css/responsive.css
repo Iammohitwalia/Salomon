@@ -1,0 +1,810 @@
+@media (max-width:1879px) {
+	.attorneys-tabs label {padding: 1.6rem 1.2rem;}
+	.contact-md .our-clients::after {bottom: -57px;}
+}
+
+/*================================*/
+@media (max-width:1799px) {
+.results-boxs ul li span {font-size: 44px;}	
+.results-boxs ul li figure {font-size: 18px;}	
+.footer-main {background-position: right 171px; background-size: 25%;}
+.attorneys-tabs label {padding: 1.6rem 1rem;}
+.contact-md .our-clients {background-position: 0 -151px;}
+}
+
+/*================================*/
+@media (max-width:1699px) {
+	body {font-size: 21px;}
+	h2 {font-size: 45px;}
+.experience::after {top: -100px;}	
+.experience {background-position: center 43px;}
+.results-boxs ul li span {font-size: 40px;}
+.results-boxs ul li span::first-letter{ font-size: 100px;}
+.watermark1::before {width: 292px; height: 160%; background-size: 100%;}
+.home-practice-box a span {font-size: 35px;}
+.auto-section p {font-size: 18px;}
+.our-clients {background-position: 0 -235px;}
+.footer-last::before {top: -552px;}
+.sts-data span {font-size: 27px;}
+.attorneys-tabs label {padding: 1.6rem 1rem; font-size: 20px;}
+.blog-page::after {width: 77%;}
+.blog-page::before {top: -182px;}
+.footer-main.contact-page-footer::before {width: 440px;}
+.involved-section::after {top: -70px;}
+.prfaq {background-size: 490px;}
+}
+
+/*================================*/
+@media screen and (max-width:1599px) {
+	.footer-last::before {top: -500px;}
+	.footer-contact {margin-top: -185px;}
+	.our-clients {background-position: 0 -141px;}
+	.sts-data span {font-size: 25px;}
+	.about-david {margin-top: 27px;}
+	.about-at span {font-size: 36px;}
+	.about-at {font-size: 26px;}
+	.our-clients.ultimate-advocate {min-height: 922px;}
+	.attorneys-tabs label {padding: 1.6rem 0.8rem;}
+	.bio-category .learnmore {font-size: 13px;}
+    .pr-page-data ul li {width: 26%; font-size: 16px;}
+    .faq-page .orange-contact-box::before {right: 100%;}
+    .blog-page::after {top: -41px;}
+    .blog-section h3 {font-size: 43px;}
+    .ctfaq {font-size: 32px;}
+    .ct-gray {min-height: 380px; font-size: 32px; padding: 61px 50px;}
+}
+
+/*================================*/
+@media screen and (max-width:1499px) {
+	 body {font-size: 19px;}
+	.wl-collapse > ul > li {padding: 10px 18px;}
+	.top-contact em {font-size: 16px;}
+	.wl-search {right: 33px;}
+	.head-call a {font-size: 21px;}
+	.top-contact em {font-size: 13px;}
+	.justic-box {width: 1015px;padding: 40px 40px 40px 78px;}
+	.david-details {margin-left: 50px;}
+	.home-banner::before {bottom: -240px; width: 108%;}
+	.home-practice::before {width: 30%; top: 46px; left: 0; right:inherit; background-size: 100%;}
+	.orange-contact-box {font-size: 36px;}
+	h2 {font-size: 37px;}
+	.experience {padding-top: 210px;}
+	.superior-results {margin-top: -146px;}
+	.results-boxs ul li span {font-size: 32px;}
+	.results-boxs ul li span::first-letter{ font-size: 80px;}
+	.results-boxs ul li figure em {font-size: 23px;}
+	.results-boxs ul li figure {font-size: 15px;}
+	.results-boxs ul li {padding-bottom: 35px;}
+	.md-david-photo::before {top: -32px; left: 16px;}
+	.our-clients {min-height: 740px;}
+	.our-clients::after {bottom: -56px;}
+	.footer-form .button {padding: 15px 50px;font-size: 16px;}
+	.footer-last::before {top: -464px;}
+	.footer-contact {margin-top: -132px;}
+	.home-practice-box a span {font-size: 28px;}
+	.experienced {width: 1100px;}
+	.watermark1 {padding-bottom: 100px;}
+	.fc-row a {font-size: 24px;}
+	.fc-row a svg {width: 55px; height: 55px;}
+	.habla-espanol {margin-bottom: 75px;}
+	.inner-middle-content .experience-title h2 {font-size: 30px;}
+	.sts-data span {font-size: 22px;}
+	.ultimate-advocate h2 {font-size: 40px;}
+	.inner-banner::before {bottom: -68px;}
+	.about-david p {font-size: 27px;}
+	.ultimate-advocate .wl-row {padding-left: 19%;}
+	.attorneys-tabs label {padding: 1.6rem 0.5rem; font-size: 19px;}
+	.testimonial-page::before {bottom: 17px; left: -71px; z-index: -1;}
+	.testimonial-page .orange-contact-box {max-width: 500px;}
+	.faqbtn a {padding: 13px 35px; font-size: 20px;}
+	.watermarkstyle::before {top: -124px; right: 0; content: "";background-size: 410px;min-height: 470px;}
+	.watermarkstyle {height: 400px;}
+	.footer-main.contact-page-footer::before {width: 378px;}
+	.contact-row a {font-size: 22px;}
+	.contact-row a svg {width: 47px; height:47px;}
+	.practice-details .orange-contact-box {font-size: 30px; max-width: 560px;}
+	.clpbox figure {font-size: 40px;}
+	.clpbox ul li {font-size: 20px;}
+	.clpbox ul li::before {width: 38px; height: 38px;}
+	.clpbox ul li {padding-left: 50px;}
+	.involved-section {height: 1065px;}
+	.clpbox figure::before {bottom: 7px; width: 63px; height: 2px;}
+	.prfaq {background-position: 1% 0px;}
+}
+
+
+/*================================*/
+@media screen and (max-width:1399px) {
+	.head-call a {font-size: 22px;}
+	.wl-collapse > ul > li {padding: 10px 12px;}
+	.nav-section {width: 700px;}
+	.wl-search {top: 22px;}
+	.arrow svg {width: 50px;}
+	.superior-img::before {top: 23px;}
+	.auto-section {width: 90%;}
+	.footer-last::before {top: -430px;}
+	.footer-contact {width: 1169px;}
+	.footer-smo li {width: 35px; height: 35px;}
+	.footer-last {margin-top: 550px;}
+	.experience {height: 1045px;}
+	.experience .wl-container.wl-container-2 {width: 70%;}
+	.about-at {font-size: 24px;}
+	.about-at span {font-size: 31px;}
+	.about-david p {font-size: 25px;}
+	.why-choose-us {padding-left: 96px;}
+	.pdg10 {padding-left: 5%;}
+	.bio-category .learnmore {font-size: 11px; padding: 7px;}
+	.bio-category figure {padding: 18px; font-size: 30px;}
+	.blog-page::before {background-size: 41%;}
+	.footer-main.contact-page-footer::before {width: 340px;}
+	.contact-md .our-clients {background-position: 0 -8px;}
+	.personal-injury-image {height: 72%;}
+	.personal-injury-image::before {height: 72.5%;}
+	.prcontact span {font-size: 29px;}
+	.ctstyle {font-size: 24px;}
+	.inner-banner-text h1 {font-size: 50px;}
+
+	 
+}
+
+/*================================*/
+@media screen and (max-width:1299px) {
+.banner-text h1 {font-size: 35px;}
+.banner-text span em {font-size: 26px;}
+.banner-text span {font-size: 22px; line-height: 1;}
+.banner-text {width: 635px; top: 26%;}
+.home-banner::before {bottom: -45px;}
+.justic-box {width: 815px; padding: 30px; margin-top: -549px;}
+.david-photo {width: 275px;}
+.david-details span {font-size: 27px;}
+.experienced {width: 880px; padding-right: 51px; z-index: 1; position: relative;}
+.home-practice-box a span {padding: 0 15px;}
+.orange-contact-box {font-size: 30px;}
+.watermark1::before {top: -497px;}
+.experience {padding-top: 133px; margin-top: -110px;}
+.superior-results {margin-top: -215px; }
+.results-boxs ul li span {font-size: 33px;}
+.results-boxs ul li span::first-letter{ font-size: 50px;}
+.results-boxs ul li figure em {font-size: 19px;}
+.results-boxs ul li figure {font-size: 14px;}
+.superior-img figure a {font-size: 25px;}
+.results-boxs ul li span {margin-top: -18px;}
+.superior-results {width: 83%;}
+.home-practice-box a span::before {left: 14px; width: 90px;}
+.orange-contact-box {padding: 23px 45px;}
+.footer-last::before {top: -385px;}
+.footer-contact {margin-top: -109px;}
+.inner-middle-content .experience {padding-top: 207px;}
+.about-at {font-size: 22px;}
+.learnmore {padding: 17px 30px;font-size: 17px;}
+.our-clients.ultimate-advocate {min-height: 768px; background-position: 0 -89px;}
+.bio-data {background-position: -90px 36px;}
+.bio-category {width: 107%; margin-left: -7%; padding: 27px 21px;}
+.bio-category figure {font-size: 25px; margin: 0 -21px;}
+.pdg10 {padding-left: 3%;}
+.attorneys-tabs label {font-size: 18px;}
+.bio-data .about-david {padding-right: 10%;}
+.testimonial-page .orange-contact-box {max-width: 400px;}
+.faqbtn a {font-size: 18px;}
+.footer-main.contact-page-footer::before {width: 294px;}
+.ctfaq {font-size: 29px;}
+.ct-gray {font-size: 27px;}
+.contact-page-box h3 {font-size: 40px;}
+.clpbox ul li {font-size: 18px;}
+.clpbox ul li::before {width: 30px;height: 30px;}
+.pr-list-box a {min-height: 310px; font-size: 25px;}
+.after-accident, .accordion {width: 870px;}
+.accordion__btn {font-size: 18px; text-align: left;}
+.accordion__btn::after { width: 35px; height: 35px;}
+.responsive-tabs li a {font-size: 20px;}
+.new-practice .pr-popup ul li, .pr-popup p {font-size: 17px;}
+}
+
+/*================================*/
+@media screen and (max-width: 1199px) {
+
+	/*--------- Mobile Menu css start here ----------*/	
+	.wl-navbar .wl-collapse {display: inline-block;}
+	.wl-navbar-collapse {
+		position: fixed;
+		left: -340px;
+		top: 0;
+		height: 100%;
+		background: #112440;
+		z-index: 11;
+		padding: 0;
+		-webkit-transition: 0.3s;
+		-ms-transition: 0.3s;
+		transition: 0.3s;
+		max-width: 260px;
+		overflow: auto;
+	}
+	button.btn-menu-toggler {
+		outline: none;
+		width: 34px;
+		padding: 0;
+		border: 0;
+		position: absolute;
+		right: 0;
+		display: block;
+		z-index: 1;
+		top: 0;
+		background: #d1431e;
+		width: 70px;
+		height: 84px;
+		padding: 14px;
+	}
+	.collapse-active {
+		left: 0;
+	}
+	.wl-collapse > ul > li+li {
+		margin-top: 10px;
+	}
+	.wl-collapse > ul > li {
+		float: left;
+		width: 100%;
+		padding: 0;
+		text-align: left;
+	}
+	.header-section .wl-navbar .nav-link {
+		font-size: 22px;
+	}
+	.wl-navbar {
+		float: left;
+		width: auto;
+	}
+	.header-section .wl-navbar .wl-navbar-collapse ul>li>a, .wl-collapse ul.sub-menu li > a:hover, .wl-collapse ul.sub-menu li:hover > a {
+		padding: 12px 10px;
+		line-height: 1;
+		font-size: 16px;
+		background: transparent;
+		width: 100%;
+		color: #fff;
+	}
+	.wl-navbar-collapse ul>li+li {
+		margin: 0;
+		border-top: 1px solid rgba(236, 241, 244, 0.1);
+	}
+	ul.sub-menu {
+		width: 260px;
+		top: 0;
+		height: 100%;
+		position: fixed;
+		left: -260px;
+		overflow: auto;
+		-webkit-transition: 0.5s;
+		-ms-transition: 0.5s;
+		transition: 0.5s;
+		display: block;
+		box-shadow: none;
+		z-index: 2;
+	}
+	ul.sub-menu ul.sub-menu {
+		left: -260px;
+		z-index: 1;
+	}
+	.wl-navbar-collapse li.sub-open > ul.sub-menu {
+		left: 0;
+		z-index: 3;
+		display: block;
+	}
+	.wl-navbar-collapse li.menu-item-has-children:before {
+		content: '';
+		position: absolute;
+		right: 0;
+		top: 0;
+		width: 30px;
+		height: 40px;
+		color: #000;
+		line-height: 50px;
+		text-align: center;
+		font-size: 20px;
+		z-index: 1;
+	}
+	.wl-navbar-collapse li.menu-item-has-children>a {
+		width: calc(100% - 30px) !important;
+	}
+	ul.sub-menu>li.menu-item-has-children>a:before {
+		display: none;
+	}
+	.wl-navbar-collapse ul.sub-menu > li > a.close-top-menu {
+		font-weight: 700;
+		position: relative;
+		padding-left: 30px;
+		text-transform: uppercase;
+		width: 100%;
+		padding: 10px 10px 10px 30px;
+		height: auto;
+		line-height: 1.4;
+		background: -webkit-linear-gradient(left, rgb(50 129 194) 0%, #075290 70%);
+		background: -o-linear-gradient(to right, rgb(50 129 194) 0%, #075290 70%);
+		background: -moz-linear-gradient(to right, rgb(50 129 194) 0%, #075290 70%);
+		background: -ms-linear-gradient(to right, rgb(50 129 194) 0%, #075290 70%);
+		background: linear-gradient(to right, rgb(50 129 194) 0%, #075290 70%);
+	}
+	.wl-navbar-collapse ul.sub-menu>li>a.close-top-menu:before {
+		left: 10px;
+		z-index: 2;
+		right: 10px;
+		width: 10px;
+		height: 10px;
+		top: 17px;
+		position: absolute;
+		margin-left: 5px;
+		-webkit-transform: rotate(-45deg);
+		-ms-transform: rotate(-45deg);
+		transform: rotate(-45deg);
+		border: 2px solid #ffffff;
+		border-right: 0;
+		border-bottom: 0;
+		display: block !important;
+		content: '';
+	}
+	.wl-collapse ul.sub-menu > li:first-child {
+		display: block;
+	}
+	ul.sub-menu>li:nth-child(2) {
+		border-top-width: 1px;
+	}
+	.home-banner:before {
+		height: 100%;
+	}
+	.hs-right {
+		margin-right:63px;
+		padding: 15px 0;
+	}
+	button.btn-menu-toggler svg {
+		fill: #fff;
+		width: 100%;
+		height: auto;
+	}
+	.hsr-left {
+		padding: 17px 0;
+	}
+	.wl-collapse > ul > li>a:before, .wl-collapse > ul > li>a:after {
+		display: none;
+	}
+	.wl-navbar-collapse ul > li.menu-item-has-children:after, .wl-navbar-collapse > ul > li.menu-item-has-children:hover:after {
+		z-index: 2;
+		right: 12px;
+		width: 8px;
+		height: 8px;
+		top: 16px;
+		position: absolute;
+		margin-left: 5px;
+		-webkit-transition: all 0.3s ease;
+		-ms-transition: all 0.3s ease;
+		transition: all 0.3s ease;
+		color: #fff;
+		-webkit-transform: rotate(-45deg);
+		-ms-transform: rotate(-45deg);
+		transform: rotate(-45deg );
+		border: 2px solid #fff;
+		border-left: 0;
+		border-top: 0;
+		display: block !important;
+		content: '';
+	}
+	.wl-collapse > ul > li.menu-item-has-children {
+		padding: 0;
+	}
+	.wl-collapse ul.sub-menu {
+		opacity: 1;
+		visibility: visible;
+		box-shadow: none;
+		left: -100%;
+		top: 0;
+		position: fixed;
+		width: 260px;
+		margin: 0;
+		background: #7d96bb;
+		display: block;
+	}
+	.header-main.sticky .wl-collapse > ul > li {
+		padding: 0;
+	}
+	.wl-navbar-collapse::before {
+		content: '';
+		position: absolute;
+		left: 0;
+		top: 0;
+		bottom: 0;
+		right: 0;
+		background: -webkit-linear-gradient(bottom, rgb(118, 197, 93) 0%, #89c846 50%);
+		background: -o-linear-gradient(to top, rgb(118, 197, 93) 0%, #89c846 50%);
+		background: -moz-linear-gradient(to top, rgb(118, 197, 93) 0%, #89c846 50%);
+		background: -ms-linear-gradient(to top, rgb(118, 197, 93) 0%, #89c846 50%);
+		background: linear-gradient(to top, rgb(118, 197, 93) 0%, #89c846 50%);
+		-webkit-filter: blur(81px);
+		filter: blur(81px);
+		opacity: 0;
+	}
+	.wl-collapse > ul > li:hover::before {
+		background: none;
+	}
+	.wl-collapse > ul > li > a{color: #fff;}
+	.wl-collapse > ul > li > a:hover, .wl-collapse > ul > li > a:focus, .wl-collapse > ul > li.current-menu-item > a {
+		color: #fff;
+	}
+	.wl-navbar-collapse ul>li.current-menu-item,.wl-collapse > ul > li.current-menu-parent {
+		background: #d55034 !important;
+	}
+	.wl-collapse ul.sub-menu li > a:hover, .wl-collapse ul.sub-menu li:hover > a, .wl-collapse > ul > li > ul.sub-menu > .current-menu-item > a {
+		background: none;
+	}
+	header.sticky .wl-collapse > ul > li.current-menu-item > a, header.sticky .wl-collapse > ul > li.current-menu-parent > a, header.sticky .wl-collapse > ul > li > a:hover {
+		color: #fff;
+	}
+	.wl-collapse > ul {padding: 0;}
+
+	/*-------- Mobile Menu css End here --------*/
+
+	.hs-right {margin-right: 0; width: 336px;}
+	.header-section {padding: 0 0%; display: inherit;}
+	.nav-section {width: 75%;}
+	.nav-section {width: auto; display: inline-block; float: right;}
+	.hs-right {margin-right: 138px; width: 195px;}
+	.wl-search {right: 79px;}
+	.logo-img {max-width: 321px; float: left; height: auto; width: 229px; padding-left: 16px; background: #006a8e;}
+	.practice-list .owl-nav {display: none;}
+	.watermark1 {padding-bottom: 50px;}
+	h2 {font-size: 30px;}
+	.experience {font-size: 18px;}
+	.superior-results {margin-top: -283px;}
+	.sr-title figure {font-size: 35px;}
+	.sr-title span {font-size: 22px;}
+	.our-clients {padding: 44px 0;}
+	.our-clients::after {bottom: -33px;}
+	.home-banner {background-position: center -59px;}
+	.footer-form {width: 70%;}
+	.experienced {padding-top: 40px;}
+	.footer-last::before {top: -345px;}
+	.superior-img figure {width: 100%;}
+	.footer-contact {width: 915px;}
+	.fc-row a {font-size: 19px;}
+	.fc-row a svg {width: 46px;height: 46px;}
+	.fc-row {margin-bottom: 10px;}
+	.footer-smo li {width: 26px; height: 26px;}
+	.footer-logo img {width: 87%; height: auto;}
+	.footer-main {background-size: 33%;}
+	.footer-main::before {left: -22%; bottom: 26%;}
+	.inner-banner {height: 490px;}
+	.inner-banner-text h1 {font-size: 45px;}
+	.justice-section h2 span {font-size: 20px;}
+	.about-david p::before, .about-david p::after {width: 61px;height: 62px;}
+	.about-david p {font-size: 22px; padding: 0px 68px;}
+	.about-at {font-size: 19px;}
+	.about-at span {font-size: 26px;}
+	.ultimate-advocate h2 {font-size: 32px;}
+	.ultimate-advocate h2 span {font-size: 28px;}
+	.ultimate-advocate .learnmore {padding: 7px 9px;}
+	.attorneys-tabs label {font-size: 16px;}
+	.bio-category .learnmore {display: table; margin-bottom: 6px;}
+	.prpage-title {font-size: 36px;}
+	.watermarkstyle::before {top: -129px; background-size: 344px; min-height: 374px;}
+	.watermarkstyle {height: 310px;}
+	.watermarkstyle::before {background-size: 280px;}
+	.contact-md .our-clients.ultimate-advocate {background-position: 0 -23px;}
+	.footer-main.contact-page-footer::before {width: 249px;}
+	.ctstyle {font-size: 20px;}
+	.clpbox ul li {margin-bottom: 15px;}
+	.involved-section {margin-top: -78px;}
+}
+
+/*================================*/
+@media screen and (max-width: 1024px) {
+	.habla-espanol {max-width: 483px;}
+	.sts-data span {font-size: 19px;}
+	.sts-data figure {width: 73px;}
+	.ultimate-advocate .wl-row {padding-left: 14%;}
+	.bio-data {background-size: 57%;}
+	.attorneys-tabs label {font-size: 15px;}
+	.attorneys-tabs label::before {width: 1px;}
+	.pr-page-data ul li {width: 42%;}
+	.testimonial-page .orange-contact-box {max-width: 340px;}
+	.inner-banner::before {bottom: -41px;}
+	.blog-section h3 {font-size: 36px;}
+	.blog-page-date {font-size: 22px;}
+	.blogdata {padding-right: 11%;}
+	.blog-section p {font-size: 20px;}
+	.blog-page {margin-top: -53px;}
+	.contact-md .our-clients::after {bottom: 10px;}
+	.footer-main.contact-page-footer::before {width: 334px;}
+	.contact-page {padding-bottom: 100px;}
+	.ctfaq {font-size: 25px;}
+	.ct-gray {min-height: 311px; font-size: 32px; padding: 28px 50px;}
+	.personal-injury-image::before, .personal-injury-image {height: 55%;}
+	.prcontact span {font-size: 26px;}
+	
+}
+
+/*================================*/
+@media screen and (max-width: 991px) {
+.home-banner {height: 485px; background-position: center 0;}
+.home-banner::before { display: none;}
+.justic-box {width: 100%;}
+.home-practice::before {left: 0; right: 0;margin: auto;}
+.justic-box {margin-top: -100px; border: 10px solid #fff;}
+.watermark1::before {top: 0;}
+.david-photo {width: 206px;}
+.david-details {margin-left: 27px;}
+.banner-text {top: 50%; text-align: center;}
+.home-practice-box a span {font-size: 21px;}
+#home-practice {width: 100%;}
+.arrow {float: none; position: absolute; left: 0; bottom: -51px; right: 0; margin: auto; width: 52px; top: inherit;}
+.experience::after { top: 0; display: none;}
+.experience {margin-top: 54px;}
+.experience .wl-container.wl-container-2 {width: 100%;}
+.superior-results {margin-top: 0;}
+.experience {height: auto; padding: 50px 0 !important; margin-top: 10px;}
+.orange-contact-box {font-size: 48px; line-height: 1.2;}
+.superior-results::before {display: none;}
+.superior-results {width: 100%;}
+.orange-contact-box {padding: 23px 15px; width: 100%; max-width: 100%; text-align: center;  margin: 86px 0 0 0;}
+.our-clients::after {display: none;}
+.footer-form {width: 70%;}
+.our-clients {padding: 44px 0 175px 0; min-height: auto; background-repeat: no-repeat; background-position: top center;}
+.footer-main {margin-top: -65px;}
+.our-clients-auto {width: 80%;}
+.footer-last::before {display: none;}
+.footer-contact {margin-top: 0;}
+.footer-contact-box {margin-top: 0;}
+.footer-contact {width: 85%; padding-left: 0; margin: auto;}
+.footer-last {margin-top: 0px; padding: 100px 0 0 0; margin-top: 50px;}
+.copyright {text-align: center;}
+.home-practice .divider {max-width: inherit; position: relative;}
+.results-boxs ul li span {font-size: 25px;}
+.sr-title {padding-right: 5%;}
+.results-data {padding-left: 23px;}
+.results-boxs {margin-top: 22px;}
+.auto-section {width: 95%;}
+.our-clients {background-size: cover;}
+.our-clients-auto h2 {font-size: 51px; margin-bottom: 30px;}
+.free-consultation-title {font-size: 40px;}
+.footer-form {padding: 30px;}
+.footer-menu ul li {padding: 0 13px;}
+.footer-smo li {width: 22px;}
+.inner-banner {height: 425px;}
+.inner-banner::before {display: none;}
+.inner-banner {height: 325px;}
+.inner-banner-text {top: 65%;}
+.inner-middle-content {padding-top: 50px;}
+.justice-section .experienced {width: 100%;}
+.habla-espanol {max-width: 100%; width: 73%; text-align: center; margin: auto auto 50px auto; float: none; display: table;}
+.inner-middle-content .experience {height: auto;}
+.inner-middle-content .experience-title {margin-bottom: 20px; text-align: center;}
+.our-clients.ultimate-advocate {min-height: auto; background-position: 0 0px;}
+.inner-banner-text h1 {font-size: 40px;}
+.attorneys-tabs label {font-size: 33px;	background: #0a1425; padding: 7px 29px !important;}
+.attorneys-tabs {width: 95%; display: table; margin: 20px auto; float: none;}
+.attorneys-tabs input[type="radio"]:checked + label + .attorneys-tab {padding-top: 5px;}
+.bio-data {margin-top: 0; padding-top: 0;}
+.bio-data .about-david {margin-left: 0; padding-right: 0;}
+.attorneys-tabs::before {display: none;}
+.bio-data {padding-left: 6%;}
+.prbox {width: 100%;}
+.testimonial-page h2 {margin-bottom: 50px;}
+.testimonial-page .orange-contact-box {font-size: 29px; text-align: left;}
+.testimonial-page::before { left: -83px; background-size: 100%; width: 500px;}
+.testimonial-page .orange-contact-box {margin-top: 45px; margin-bottom: 31px;}
+.watermarkstyle::before {top: -292px; background-size: 337px; min-height: 374px; z-index: -1; }
+.blog-page {margin-top: 0;}
+.footer-main.contact-page-footer::before {display: none;}
+.footer-main.contact-page-footer .footer-last {padding-top: 15px;}
+.contact-auto {width: 100%;}
+.contact-page-box h3 {font-size: 30px;}
+.contact-row a svg {width: 40px; height: 40px;}
+.contact-row a {font-size: 16px;}
+.contact-map {height: 260px;}
+.smotitle {font-size: 19px;}
+.ct-gray {min-height: 311px; font-size: 23px; padding: 28px 26px;}
+.ctfaq {font-size: 21px;}
+.ultimate-advocate h2 {font-size: 31px;}
+.prtext ul li {font-size: 16px;}
+.ctstyle {font-size: 18px;}
+.prtext h3 {font-size: 32px;}
+.pr-list-box a {min-height: 250px; font-size: 19px;}
+.responsive-tabs-container .tab-content {padding: 0;  width: 100%;}
+.new-practice .pr-popup h4 {display: none;}
+.responsive-tabs-container[class*="accordion-"] .tab-pane {float: left; width: 100%; margin-top: 0; margin-bottom: 0;}
+.responsive-tabs-container[class*="accordion-"] .accordion-link {margin-bottom:0px; margin-top: 20px; float: left; width: 100%;}
+.responsive-tabs-container.accordion-xs .accordion-link {font-family: 'Lora'; font-size: 20px;}
+.new-practice .pr-popup ul {margin: 8px 0px 18px 0px;}
+.new-practice {margin-bottom: 46px;}
+
+}
+
+/*================================*/
+@media screen and (max-width: 768px) {
+.habla-espanol {width: 93%;}	
+.about-at {font-size: 16px;}
+.about-at span {font-size: 21px;}
+.about-david-photo {position: relative;}
+.about-trp {background-size: 50%;}
+.ultimate-advocate .wl-row {padding-left: 4%;}
+.why-choose-us {padding-left: 50px;}
+.ultimate-advocate .learnmore {display: table; margin-bottom: 12px;}
+.blog-page-date {font-size: 18px;}
+.blog-section h3 {font-size: 29px;}
+.experienced {padding-right: 0; width: 100%;}
+.ctstyle b {padding: 14px 15px;}
+.ctstyle a {padding: 0 17px;}
+.practice-details .orange-contact-box{ margin-top:20;}
+.personal-injury-image::before, .personal-injury-image {height: 40%;}
+.involved-section {margin-top: 25px;}
+.involved-section .wl-container.wl-container-2 {padding-left: 5%;}
+.after-accident {padding-right: 0;}
+.accident-watermark {margin: 50px 0;}
+.after-accident, .accordion, .after-accident, .accordion {width: 92%;}
+.after-accident, .accordion {padding-left: 0;}
+
+}
+
+/*================================*/
+@media screen and (max-width: 767px) {
+	.experienced {width: 100%; padding-right: 0;}
+	.experienced, .home-practice{padding-top: 50px;}
+	.watermark1 {padding-bottom: 0;}
+	.home-practice .divider {padding-top: 0;}
+	.experience {background-size: cover;}
+	.superior-img::before {display: none;}
+	.meet-attorney {margin-top: 50px; padding: 0 15px;}
+	.md-david-photo::before {display: none;}
+	.md-david-photo img {width: 100%;}
+	.our-clients-auto p::before, .our-clients-auto p::after {width: 50px; height: 50px;}
+	.our-clients-auto {width: 96%;}
+	.our-clients-auto p {padding: 0 58px;}
+	.footer-logo img {width: 60%; m}
+	.footer-logo {text-align: center; margin-bottom:20px; }
+	.footer-last {padding: 30px 0 0 0;}
+	.auto-section {width: 100%;}
+	.footer-contact-box {width: 332px; margin: auto; display: table;}
+	.inner-banner {background-position: center 6px;}
+	.about-at {font-size: 29px; width: 100%; text-align: center;}
+	.about-at span {font-size: 40px;}
+	.ultimate-advocate h2 {text-align: center;}
+	.ultimate-advocate .learnmore {display: inline-block;}
+	.ultimate-advocate .wl-row {padding: 0 32px;}
+	.why-choose-us {padding-left: 0; padding-top: 50px;}
+	.stylebox {display: inline-block; text-align: center;}
+	.sts-data {display: inline-block; width: 300px; padding-top:0px; margin: auto;}
+	.about-david-photo::before {display: none;}
+	.superior-results .divider {text-align: center; margin-bottom: 49px;}
+	.about-trp {padding-bottom: 0;}
+	.bio-data {padding-left: 0;}
+	.attorneys-tabs {width: 100%;}
+	.attorney-profile-page.pdg10, .bio-data {padding: 15px;}
+	.profile-page-photo {margin-top: 0;}
+	.bio-category {width: 100%; margin-left: 0; padding: 27px 21px;}
+	.bio-category figure {margin-bottom: 15px;}
+	.imgstyle {height: 300px;}
+	.prpage-title {text-align: center;}
+	.prpage-title::before {left: 0;right: 0; margin: auto;}
+	.pr-page-data {padding: 12px;}
+	.testimonial-page .orange-contact-box {width: 100%; max-width: 100%; text-align: center; margin-bottom: 0;}
+	.testimonial-box {padding: 20px 20px; border-radius: 15px; min-height: auto; font-size: 17px;}
+	.watermarkstyle {height: auto;}
+	.faqbtn a {font-size: 18px; display: table; width: 100%; margin-bottom: 10px;}
+	.faqbtn span {font-size: 28px;}
+	.blogdata {padding-right: 0; padding: 20px;}
+	h2 span {font-size: 26px;}
+	.blog-page-date span {width: 100%; display: inline-block; padding-right: 0;}
+	.contact-row a {font-size: 22px;width: 100%;}
+	.contact-row {margin-bottom: 20px;}
+	.contact-map {margin-top: 50px;}
+	.ctfaq span {margin-bottom: 20px; text-align: left;}
+	.ct-gray {min-height: auto; font-size: 23px; padding: 28px 26px;}
+	.contact-page {margin-top: -40px;}
+	.personal-injury-image:before{ display: none;}
+	.personal-injury-image img {height: auto; margin-bottom: 20px;}
+	.pr-list-box {width: 100%; margin-bottom: 20px;}
+	.pr-list-box a {font-size: 30px;}
+	.practice-details .orange-contact-box {max-width: 100%;}
+	.pi-bt {width: 100%; padding: 53px 0;}
+	.pr-list-box .pr-popup {width: 100%; padding: 20px; font-size: 17px;}
+	.involved-section::after {top: 0; display: none;}
+	.involved-section {height: auto; padding: 30px 0;}
+	.involved-section .wl-container.wl-container-2 {margin-top: 0;}
+	.accordion__btn {padding-right: 45px;}
+	.pr-list-box .pr-popup {display: inline-block; position: relative; top: inherit; left: inherit; height: 100%; float: left; width: 100%;}
+	.pr-list-box a { font-size: 30px; display: none;}
+	.pr-popup ul {margin: 0 10px; padding: 0; display: inline-block; gap: inherit; flex-wrap: inherit; position: inherit;}
+    .clpbox figure { font-size: 33px;}
+    .inner-banner-text.practice-areas-title h1 {width: 100%; }
+	.inner-banner-text.practice-areas-title h1 span, .inner-banner-text.practice-areas-title h1{font-size:29px; font-size: 29px;}
+	.inner-banner-text.practice-areas-title {top: 62%;}
+	.pr-mainbox .wl-container.wl-container-2 {padding: 0;}
+	.prbox {margin-bottom: 31px;}
+	.pr-page-data {padding: 0;}
+	.pr-page-data ul {margin: 0 15px;}
+	.pr-mainbox::before {display: none;}
+	.listing-style-pr {padding: 0;}
+}
+
+/*================================*/
+@media screen and (max-width:575px) {
+	.top-contact br {display: none;}
+	.hs-right {margin-right: 0;width: 100%;}
+	.hs-right {margin-right: 0; width: 100%; background: #fff; padding: 0; color: #000;}
+	.top-contact em {font-size: 15px;color: #000;font-weight: 600;}
+	.home-banner {background-size: cover;}
+	.banner-text {width: 95%; margin: auto;}
+	.banner-text span em {font-size: 17px;}
+	.banner-text span {font-size: 16px; line-height: 1.5; display: inline-block;}
+	.banner-text h1 {font-size: 31px; margin-bottom: 6px;}
+	.david-photo {width: 100%;}
+	.david-details {margin-left: 0; width: 100%; margin-top: 20px;}
+	.practice-list {float: none; width: 90%; position: relative; margin: 28px auto auto auto;}
+	.arrow {bottom: -34px;}
+	.home-practice-box a span {font-size: 40px;}
+	.orange-contact-box {font-size: 27px; margin-top:6px;}
+	.results-boxs ul {display: inline-block;}
+	.results-boxs ul li {padding-bottom: 0; margin-bottom:30px; text-align: center; padding: 28px 0; width: 100%;}
+	.footer-form {width: 100%;}
+	.footer-last {margin-top: 0;}
+	.top-contact {box-shadow: 0 8px 9px #000;}
+	.home-practice .divider br {display: none;}
+	body, .sr-title p {font-size: 18px;}
+	.our-clients-auto h2 {font-size: 30px;}
+	.pr-page-data ul li {width: 100%;}
+}
+
+/*================================*/
+@media screen and (max-width: 479px) {
+.orange-contact-box {font-size: 23px;}
+.experience-title h2 br{ display: none;}
+h2 {font-size: 26px;}
+.free-consultation-title span, .free-consultation-title {font-size: 22px; padding-bottom: 0px;}
+.bio-contact figure {font-size: 23px;}
+h2 span {font-size: 25px;}
+.attorneys-tabs label {font-size: 25px;}
+.button {padding: 20px 28px; font-size: 14px;}
+.blog-section h3 {font-size: 22px;}
+.blog-page-date {font-size: 16px;}
+.blog-section p a {display: table;}
+.blog-section:nth-child(2n+1) {padding: 30px 0px;}
+.inner-banner-text.practice-areas-title h1 span, .inner-banner-text.practice-areas-title h1 {font-size: 25px;}
+}
+
+/*================================*/
+@media screen and (max-width:399px) {
+	.banner-text span {font-size: 14px;}
+	.inner-banner {background-position: center 96px;}
+	.inner-banner-text h1 {font-size: 25px; margin-bottom: 0;}
+	.justice-section h2 span {font-size: 18px;}
+	.habla-espanol span {font-size: 28px;}
+	.habla-espanol {font-size: 17px;}
+	.inner-middle-content .experience-title h2 {font-size: 23px;}
+	.sts-data {margin-bottom: 26px;}
+	.about-at {font-size: 20px;}
+	.about-at span {font-size: 32px;}
+	.about-david p::before, .about-david p::after {width: 35px; height:35px;}
+	.about-david p {font-size: 20px; padding: 0px 41px;}
+	.ultimate-advocate h2 {font-size: 25px;}
+	.ultimate-advocate .divider {text-align: center;}
+	.faqbtn span {font-size: 23px;}
+	.blogdata {padding: 7px;}
+	.contact-page-box h3 {font-size: 22px;}
+	.contact-data {padding: 17px; border: 9px solid #fff;}
+	.contact-row a svg {margin-right: 7px;}
+	.contact-row a {font-size: 17px;}
+	.ctfaq {font-size: 19px;}
+	.ct-gray {font-size: 19px;}
+     .contact-page .footer-form {width: 100%;}
+     .prtext h3 {font-size: 21px;}
+     .ctstyle {font-size: 15px;}
+}
+
+/*================================*/
+@media screen and (max-width:359px) {
+	.logo-img {width: 189px;}
+	.inner-banner {height: 296px;}
+	.about-at span {font-size: 29px;}
+	.contact-row a svg {width: 31px; height: 31px;}
+    .contact-row a {font-size: 14px;}
+    h2 {font-size: 22px;}
+
+}
+
+
+
